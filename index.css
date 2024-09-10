@@ -1,0 +1,29 @@
+*{
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.FS{
+    display: flex;
+}
+
+.FS img{
+    width: 250px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.FS .ficcionTexto{
+    margin-top: 20px;
+    margin-right: 10px;
+    text-align: justify;
+}
+
+.FS h2{
+    text-align: center;
+    color: green;
+    
+}
